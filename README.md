@@ -10,5 +10,5 @@ Peer to peer webcam app
 
 # setup 
 
-npm install
-npm start
+- npm install
+- npm start
