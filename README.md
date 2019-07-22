@@ -10,5 +10,6 @@ Peer to peer webcam app
 
 # setup 
 
+- cd camcaster
 - npm install
 - npm start
