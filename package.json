@@ -1,0 +1,22 @@
+{
+  "name": "camcaster",
+  "version": "1.0.0",
+  "description": "peer to peer webcam app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozandeniz/camcaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozandeniz/camcaster/issues"
+  },
+  "homepage": "https://github.com/ozandeniz/camcaster#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
